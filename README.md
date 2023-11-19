@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo(a) ao meu perfil!
 ## Contact me:
-[![Instagram](https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:lipiph21@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=Instagram&logoColor=white)](https://mailto:lipiph21@gmail.com)
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:lipiph21@gmail.com)
