@@ -1,4 +1,16 @@
 ### Olá, seja bem vindo(a) ao meu perfil!
+Entusiasta da Tecnologia | Desenvolvedor Full Stack
+ Java Script | Python | Node.js | React | CSS | HTML |Git
+
+Sou um entusiasta apaixonado pela tecnologia, especializado em desenvolvimento Full Stack. Minha jornada na área de tecnologia começou em 2017, como Analista Sistema , com um fascínio por desafios e inovação, e desde então tenho me dedicado, é estudando diariamente para  dominar as mais recentes ferramentas e linguagens.
+
+Com experiência em JavaScript, Node.js, Python e React, tenho colaborado em diversos projetos . Minha paixão pela resolução de problemas me levou a buscar constantemente novos conhecimentos e a aplicar as melhores práticas de desenvolvimento em cada projeto .
+
+ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades técnicas e contribuir para projetos que buscam impactar positivamente o mundo por meio da inovação tecnológica.
+
+💬 Estou aberto a conversas sobre tecnologia, colaborações e oportunidades de trabalho !
+
+#JavaScript #Python #Node.js #React #Git
 ## Contact me:
 [![Instagram](https://img.shields.io/badge/instagram-DB1F48?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fabiiaan.dev)
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
